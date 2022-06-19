@@ -13,3 +13,6 @@ Get-ItemProperty -Path "HKLM:\SOFTWARE\Classes\CLSID\*" `
 https://www.systemlookup.com/lists.php?list=1  
 https://documentation.help/AutoHotKey-Functions/CLSID-List.htm  
 https://www.elevenforum.com/t/list-of-windows-11-clsid-key-guid-shortcuts.1075/  
+
+# Please see also:  
+https://github.com/sud0woodo/DCOMrade
