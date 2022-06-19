@@ -25,4 +25,4 @@ for record in remove_duplicate():
 CLSID_no_duplicate_records.close()
 
 
-remove_duplicate()
+remove_duplicate() ## Duplicates refer to CLSIDs and not by application!
