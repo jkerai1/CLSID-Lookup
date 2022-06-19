@@ -14,5 +14,5 @@ https://www.systemlookup.com/lists.php?list=1
 https://documentation.help/AutoHotKey-Functions/CLSID-List.htm  
 https://www.elevenforum.com/t/list-of-windows-11-clsid-key-guid-shortcuts.1075/  
 
-# Please see also:  
+# Please see also, a tool for looking for vulnerable COM:  
 https://github.com/sud0woodo/DCOMrade
