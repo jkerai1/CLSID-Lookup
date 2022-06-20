@@ -9845,4 +9845,267 @@ Start Menu Folder
 Temporary Internet Files
 {bdeadf00-c265-11d0-bced-00a0c90ab50f}
 Web Folders
+{0000002F-0000-0000-C000-000000000046} CLSID_RecordInfo
+{0002DF01-0000-0000-C000-000000000046} Internet Explorer(Ver 1.0)
+{0003000A-0000-0000-C000-000000000046} Bitmap Image
+{027C265F-E9C7-4506-8C19-3B91B203AE1D} Windows.ApplicationModel.Contacts.ContactDataProviderTriggerDetai...
+{027D3767-28E0-4FFA-98D0-DF67D0CBBE47} User Tile Validator
+{031EE060-67BC-460d-8847-E4A7C5E45A27} Windows Media Player Rich Preview Handler
+{04B55BC3-33DE-4d79-94EC-830CDF96CC82} WMPlayer ContentPropPage Class
+{05589FA1-C356-11CE-BF01-00AA0055595A} ActiveMovieControl Object
+{08a99e2f-6d6d-4b80-af5a-baf2bcbe4cb9} Provides IPortableDevicePropVariantCollection helper methods for ...
+{08d450b7-f7e5-4424-8229-11888adb7c14}
+{095B9B12-8BDE-49D2-984B-BF01B4F8CDAF} VmSnapshotRequestor Class
+{0AA02E8D-F851-4CB0-9F64-BBA9BE7A983D} AlchemyVis Class
+{0af10cec-2ecd-4b92-9581-34f6ae0637f3} Provides methods to enumerate and get information on portable dev...
+{0af96ede-aebf-41ed-a1c8-cf7a685505b6} Library Folder Context Menu
+{0c15d503-d017-47ce-9016-7b3f978721cc} Provides IPortableDeviceValues helper methods for portable device...
+{0C1CC3CF-D7B8-459F-BE18-2F009E2541DC} Perception Simulation Display Monitor
+{0F3F9F91-C838-415E-A4F3-3E828CA445E0} FaxDocument Class
+{11016101-E366-4D22-BC06-4ADA335C892B} IE History and Feeds Shell Data Source for Windows Search
+{13847AF0-912C-470B-87B7-7FC3483BD5F9} Windows.Security.Authentication.Web.Provider.WebAccountProviderTr...
+{13a4bbe8-6527-40cb-a996-1602829541ef} Frame Automation Object
+{1649b154-c794-497a-9b03-f3f0121302f3} Provides access to a portable device service using IPortableDevic...
+{1649d1cf-deaf-4a68-abe8-5c9f68572fd1} ExecuteAssociation
+{17FC1A80-140E-4290-A64F-4A29A951A867} OpenMediaSharing
+{182C3813-DF97-40fa-9C4E-B7D3E74F00CA} Pinned Site Shortcut
+{1BE49F30-0E1B-11D3-9D8E-00C04F72D980} BDA Tuning Model Language Component Type Class (Broadcast Substre...
+{1bef2128-2f96-4500-ba7c-098dc0049cb2} CLSID_DBFolderBoth
+{1E4CEC13-76BD-4ce2-8372-711CB6F10FD1} XML Paper Specification Filter
+{1FCBE96C-1697-43AF-9140-2897C7C69767}
+{1FD49718-1D00-4B19-AF5F-070AF6D5D54C} IEToEdge BHO
+{21F282D1-A881-49E1-9A3A-26E44E39B86C} CDPComUserServiceNotificationsHost
+{222B1D13-08D6-4BE8-B0C0-948A736012D0} CDPComWebAccountProviderCallback
+{22AF56E3-F2E0-4A7E-AA0C-6B226EF5ABF8} Work Folders Sync Explorer Status Provider Class
+{22D6F312-B0F6-11D0-94AB-0080C74C7E95} Windows Media Player
+{267DB0B3-55E3-4902-949B-DF8F5CEC0191} Custom Composition Segment from WebDVD Device Segment to Standard...
+{26A1F020-DDD8-472D-8B7C-2F98B80024F3} MF MPEG2 Parser Class Factory
+{28F4700C-44EB-4BD8-BC25-95812DE98E08} PPCNode Class
+{2A196062-812A-4249-B04A-797971DC466C} XML Paper Specification Filter Persistent Handler
+{3037B4CD-A40B-401B-B676-2017EE8FAFF4} Wordpad DOCX Filter
+{332A1615-9FCB-4D57-BD09-EA10759BC2B6} HighlightCursorInproc Class
+{3882134d-14cf-4220-9cb4-435f86d83f60} Provides IPortableDeviceValuesCollection helper methods for porta...
+{3886CA90-AB09-49D1-A047-7A62D096D275} Exploit Shield Broker
+{398D1A2A-A0EB-4C2E-BBF9-671EF93CC6EE} Windows.Device.PointOfService.BarcodeScannerProviderTriggerDetail...
+{39AEDC00-6B60-46DB-8D31-3642BE0E4373} TsfServices
+{3B68879A-2CE5-419D-BB70-F39E1F66B06F} MathRecognizer Class
+{3E73C6F7-8937-4C07-85D9-D4447A4BE072} Windows.Gaming.GameBar.Internal.PresenceWriterServer.ProxyStubFac...
+{3E784A01-F3AE-4DC0-9354-9526B9370EBA} SAXAttributes 3.0
+{3F13AB10-AE95-48AA-8C94-533730760A20} PMCRootNode Class
+{3FBA60A6-7BF5-4868-A2CA-6623B3DFFEA6} Automatic Maintenance task to enable Windows Search to make progr...
+{3FBF60BD-90B2-2C2F-7286-128BBCF72015} PSFactoryBuffer
+{4003191F-71FF-49A2-B591-05C606FADB8B} WMPlayer MusicPropPage Class
+{418008F3-CF67-4668-9628-10DC52BE1D08} BDA Tuning Model MPEG2 Component Type Class (Broadcast Substream ...
+{418201e2-6c9f-42cc-9061-586d9f46ac9e} MTF Japanese DateTime DS
+{42CB7C79-F92E-441B-8423-AECE2C1E30D3} CDP Resource Manager
+{42D69529-136E-49D6-8407-3026853038BF} PMCComponent Class
+{4456C5C3-DC01-4FF3-AF4E-06F4EBCC3B09} Windows.ApplicationModel.Calls.Background.PhoneNewVoicemailMessag...
+{446CDD3B-EFFC-4B23-A625-62CED58C7749} Chinese CHT Advanced Prediction Data Source
+{454AFB66-FA8C-4152-9CD6-2A8781B3D505} Windows.ApplicationModel.Chat.RcsEndUserMessageAvailableTriggerDe...
+{45597c98-80f6-4549-84ff-752cf55e2d29} Add to Windows Media Player list
+{45670FA8-ED97-4F44-BC93-305082590BFB} Microsoft XPS Shell Metadata Handler
+{4654B883-10C0-4524-96B6-7D997104DCF0} SystemAudioDeviceOffload Class
+{4661626C-9F41-40A9-B3F5-5580E80CB347} tiledatamodelsvc
+{46AE633A-032B-41CC-8FC7-E26E246E6CB8} VmSnapshotProvider Class
+{46B559E9-0D2F-44AC-9EE7-AE6D9384B292} CDPComAuxiliaryStreamClient
+{47405ACE-008F-43AB-B6F0-91875029ADC7} Work Folders Launch Sync Status Action
+{4A4EBE8E-AE27-4AA3-B702-F365C4A90FAC} PSFactoryBuffer
+{4B6C85F1-A6D9-433A-9789-89EA153626ED} tiledatamodelsvc
+{4cadfae1-5512-456a-9d65-5b5e7e9ca9a3} Provides customized initialization for WPD drivers using IPortabl...
+{4CB26C03-FF93-11d0-817E-0000F87557DB} DXTaskManager
+{4FE8C25F-C8E9-4322-98EE-A11E117CF049} MachineComponentData Class
+{536AACFB-5238-4314-B4D4-5B0A2E8B968E} LockScreenContentServer Out of Proc Helper for LockScreenContent ...
+{537A8913-59D1-40CB-9A1C-2CBC7C3B0D7E} DatabaseResultProxy
+{556937b4-9619-4cde-a03b-a0a540bd848c} Windows.Devices.Bluetooth.Background.GattCharacteristicNotificati...
+{5569e7f5-424b-4b93-89ca-79d17924689a} Windows Media Player Plug-in Registrar
+{556FF0D6-A1EE-49E5-9FA4-90AE116AD744} CLSID_LaunchSettingsPageHandler
+{5848A73D-E9C2-499E-BB92-887CABCB2BD6} Microsoft XPS Active Document
+{59347292-B72D-41F2-98C5-E9ACA1B247A2} FaxCommon Class
+{593E7688-704F-4E72-B025-15FBA735D786} Windows.Device.PointOfService.PaymentDeviceConnectionTriggerDetai...
+{594103b8-e428-4461-b8d7-dd0ae12d31d9} CFileInformationProxy
+{5C659258-E236-11D2-8899-00104B2AFB46} Allows configuration and control of the Windows Management Instru...
+{5c70bc6a-4ab5-48ee-bce3-e6dd857cbdc6} Sort Ascending Explorer Command
+{5C90CD39-2B89-4C1C-AA3B-19950958CBDA} Windows.ApplicationModel.Calls.Background.PhoneLineChangedTrigger...
+{5C9AB547-345D-4175-9AF6-65133463A100} Storage Tiers Management Initialization
+{6047F837-D527-467E-9DC1-6D51F92D9E45} Wordpad ODT Filter
+{628ACE20-B77A-456F-A88D-547DB6CEEDD5}
+{63260bce-a3fb-4a34-aa51-d4d8e877b62b} Work Folder Maintenance Task Class
+{63FA5E69-87FE-432d-8F62-9D7A3D7D09C3} WMPlayer VideoPerfPropPage Class
+{698A4FFC-63A3-4E70-8F00-376AD29363FB} Wordpad OOXML Document Filter
+{6B13B293-30FD-4abb-8E41-29B1F88297E2} Windows Media Player OCXGeneralPropPage Class
+{6BF52A52-394A-11d3-B153-00C04F79FAA6} Windows Media Player
+{6D48E7F7-8ECD-404C-8E30-81C49E8E36EE} Windows.Storage.Search.StorageLibraryContentChangedTriggerDetails...
+{6D4A3650-628D-11D2-AE0F-006097B01411} DirectPlay8 Modem Provider Object
+{6DC25420-C66D-44B5-B3D3-78EECFFA6DB0} Windows.Internal.Management.AlertListener.DeviceManagementOperati...
+{6DC3804B-7212-458D-ADB0-9A07E2AE1FA2} Resultant Set of Policy
+{71E32BAA-73EE-40a1-933C-F166F0192B72} Show thumbnails instead of icons tree item callback object for sy...
+{71E38F91-7E88-11CF-9EDE-0080C78B7F89} MTxAS Object
+{73978CED-828C-49AB-A403-9ABACDCE1505} CDPComMessagingClient
+{73FDDC80-AEA9-101A-98A7-00AA00374959} WordPad Document
+{74620884-155F-4B72-A4F0-0FADDBC0721E} Windows.ApplicationModel.Appointments.AppointmentStoreNotificatio...
+{74628299-57EC-4F12-BA1C-08B477BF447A} WBEM WIN32_TERMINAL Provider
+{7478f1a6-c1bb-4a4c-b7d2-6d4cc34dfffd} Windows.ApplicationModel.Calls.Background.PhoneIncomingCallDismis...
+{74807f67-0058-440d-8600-65541a7fbbea} PSFactoryBuffer
+{754EC012-E0B0-4F32-A810-77F639CBF103} CDPComTouchClient
+{777D0CFF-0375-43b9-8532-FB04A4903593} Windows Media Player Effects Activate
+{7888E5FE-6C66-4A34-B217-FA2292073F4A} PSFactoryBuffer
+{7C22A465-6B21-4132-BA6A-FDABC91A4243} Windows.ApplicationModel.Calls.Background.PhoneCallBlockedTrigger...
+{7C23220E-55BB-11D3-8B16-00C04FB6BD3D} WM ASF Writer
+{7C606A3F-8AA8-4E36-92D6-2B6AFEC0B732} PMCPrintQueueViewExtension Class
+{7CB359C5-570F-43c6-971F-1DB499EE57A1} WMPlayer PlaybackPropPage Class
+{7ECC8054-7AE3-486D-9CBA-8ED0B5ED61AC} CDPComResourceManager
+{7EE0A24E-A8C6-46ae-A875-8E7C3D18AEAF} Favorites IFilter
+{7FC12E96-4CB7-4ABD-ADAA-EF7845B10629} Authentication UI CredUI Out of Proc Helper for AppContainer Clients
+{7FD3958D-0A14-3001-8074-0D15EAD7F05C} System.Security.Cryptography.SHA384Managed
+{85862EDA-F507-4d5b-ACA9-BB2C34A85682} Microsoft XPS Rich Preview Handler
+{87099231-C7AF-11D0-B225-00C04FB6C2F5} FaxTiff Class
+{88C0DC64-E224-46E1-80A9-A5582A01BD70} Windows.ApplicationModel.Calls.Background.PhoneCallOriginDataRequ...
+{88c524ca-551b-4c01-9a42-cdb16b745291} ImeCommonAPI_JPN_Desktop_V1 Class
+{8A11B5FA-3C92-4E8B-8382-3C71B757D679} IE RSS Search Protocol Handler
+{8A6842BB-84DB-4EFA-99B9-06C850DF53FC} WMPlayer NetworkPropPage Class
+{8CD34779-9F10-4f9b-ADFB-B3FAEABDAB5A} .url File Persistent Handler
+{8D8F4F83-3594-4F07-8369-FC3C3CAE4919} CDPComActivityStore
+{8E528C21-9D52-4030-BA92-3481227ADDD1} WMPlayer PrivacyPropPage Class
+{8F60C6E5-0436-4B12-B53E-CA259BBD8868} Windows.ApplicationModel.Contacts.ContactStoreNotificationTrigger...
+{8F6D198C-E66F-3A87-AA3F-F885DD09EA13} System.Security.Cryptography.DSASignatureFormatter
+{901F6B1C-2FC6-4C28-BC8A-86C82765E96B} Windows.Devices.Bluetooth.Background.BluetoothLEAdvertisementPubl...
+{90511715-D0AD-4DAA-A18B-254BD3AE1CF2} FhSearch Class
+{912D9D84-DC73-48FA-8BD8-5315DE4B8FA8} Windows.ApplicationModel.Email.EmailStoreNotificationTriggerDetai...
+{913a6daa-57ee-4551-9ada-64d329d306a5} App Locations Icon Extract Extension
+{9173e885-d54f-464a-8d04-86440a1246d3} Windows.ApplicationModel.Core.Internal.PrelaunchConfig.ProxyStubF...
+{91778246-9BE4-4713-A651-E833B853CC30}
+{92498132-4D1A-4297-9B78-9E2E4BA99C07} NSSManager Class
+{924DC564-16A6-42EB-929A-9A61FA7DA06F} Authentication UI CredUI Out of Proc Helper for Non-AppContainer ...
+{9264B7DC-A82F-4AFD-89C8-4F399DA7B028} VAN Settings Page Class
+{94E03510-31B9-47a0-A44E-E932AC86BB17} Windows Media Player Device Autoplay
+{960CE120-E284-45CE-83BC-A15B2EEE3DE8} MTF Contact Harvester set up to use the Contact Dynamic Dictionar...
+{96236A71-9DBC-11DA-9E3F-0011114AE311} PSFactoryBuffer
+{96236A85-9DBC-11DA-9E3F-0011114AE311} RdcLibrary Class
+{96236A8F-9DBC-11DA-9E3F-0011114AE311} SimilarityTraitsTable Class
+{96236A90-9DBC-11DA-9E3F-0011114AE311} SimilarityFileIdTable Class
+{96236A91-9DBC-11DA-9E3F-0011114AE311} Similarity Class
+{96BEC059-2052-4e44-8E11-123ACDC936FE} WMDM Sync Property Page
+{975ABEDC-F64B-436d-ABFF-44B932459856} Windows Media Player OCXAdvancedPropPage Class
+{97d47d56-3777-49fb-8e8f-90d7e30e1a1e} Work Folder Logon Trigger Class
+{98042251-8C2B-4FC4-93E2-B1DB331EF5B9} WMPlayer AdvancedPropPage Class
+{98F63271-6C09-48B3-A571-990155932D0B} FaxControl Class
+{9B1F122C-2982-4e91-AA8B-E071D54F2A4D} CAutoUpdate Class 1.0
+{9C502F01-0D36-4f16-8AC9-8693E0D84E44} WMPlayer CDBurnPropPage Class
+{9CE31F69-2605-420C-A30E-B60A164DB44D} Windows.ApplicationModel.Chat.ChatMessageNotificationTriggerDetai...
+{9cfc2df3-6ba3-46ef-a836-e519e81f0ec4} Property System Apartment Class Factory
+{A1A2B1C4-0E3A-11D3-9D8E-00C04F72D980} Collection of BDA Tuning Model Component Types(Broadcast Substrea...
+{A1B1922F-B626-4A4F-9F2B-4A6926DF86D1} Output Manager Class
+{A45AEC2B-549E-405F-AF3E-C6B03C4FDFBF} ToggleDMRAuthorization
+{A533BCB1-6D33-41FC-8C3B-63223FCCE9D2} PSFactoryBuffer
+{A8DCF3D5-0780-4EF4-8A83-2CFFAACB8ACE} BDA Tuning Model ATSC Component Type Class (Broadcast Substream T...
+{A8DFB9A0-8A20-479F-B538-9387C5EEBA2B} VMR Mixer 9
+{AA10385A-F5AA-4EFF-B3DF-71B701E25E18} Wordpad ODT Document Filter
+{AD581B00-7B64-4E59-A38D-D2C5BF51DDB3} WindowsMediaLibrarySharingServices Class
+{AFD7F94B-1627-436c-80C8-B464AA21CAD3} WMPlayer SecurityPropPage Class
+{B03B16C7-35A7-4A55-BEF1-8876E1CE2F45} PMCAbout Class
+{B2A7FD52-301F-4348-B93A-638C6DE49229} WMPSkinMngr Class
+{B31118B2-1F49-48E5-B6F5-BC21CAEC56FB} tiledatamodelsvc
+{B441840A-5CEF-42F1-BE06-4E31A90E74D7} CDPComMediaClient
+{B7B4F949-65EE-47C0-A6FA-586844E15B68} Windows.ApplicationModel.UserDataTasks.DataProvider.TaskDataProvi...
+{B7BBD408-F09C-4aa8-B65E-A00B8FE0F0B9} Windows Theme Preview API
+{B7BC3EB9-B145-4574-B729-7D78126EB4C8} CDPComSensorClient
+{b8a97152-cda0-4d4d-9526-49d044faf1fa} Windows.Internal.Security.Authentication.OnlineId.MicrosoftAccoun...
+{B8B3F797-E237-4D1C-998A-1411D95B8C82} RemoteFind
+{BAB56818-0360-4D47-BD5F-8F0683737DA8} Windows.ApplicationModel.Contacts.AppointmentDataProviderTriggerD...
+{BACF5C8A-A3C7-11D1-A760-00C04FB9603F} Software installation
+{BB5331F1-D8FF-4DDB-8A8F-2DF901123B33} PPCRootNode Class
+{BBC40082-8ABB-4DDD-B1C6-4EE0A9A5DB52} WMPlayer PlaylistPropPage Class
+{BBEC4F81-C2BC-43a7-BD95-9738EE9B6CCA} WMPlayer DVDPropPage Class
+{BCC9FF78-A268-4907-97AB-109C5C62C45B} Windows.Devices.Bluetooth.Background.BluetoothLEAdvertisementWatc...
+{BCDA6B1B-5C8A-4D3C-9053-3DCF6A6E3F01} Holographic Spatial Graph Extension
+{BDE24877-01D7-4103-9704-F0EC82FA7CE9} UserComponent Class
+{C1282A7B-9455-48dc-BBBB-46C2EB525AF5} WMPlayer VizResolutionPropPage Class
+{c15e6bf0-6351-4588-ac4f-ef7d5ec8c16e} WMPlayer LibraryPropPage Class
+{C41FA05C-8A7A-3157-8166-4104BB4925BA} System.Security.Cryptography.CryptographicUnexpectedOperationExce...
+{C41FF872-07B1-4926-819B-8C94E6B1FBB9} WBEM WIN32_TSLOGONSETTING Provider
+{C561816C-14D8-4090-830C-98D994B21C7B} MathInputControl Class
+{C5702CD6-9B79-11D3-B654-00C04F79498E} Custom Composition Segment from Legacy Analog Tv Tuner Device Seg...
+{C578375F-8441-4733-BF71-027683AF538B} Application Tile Information
+{C7386F3F-B5EB-4AF4-B261-5DCA3BEEF7B1}
+{CB35832D-0C2C-41A9-84E1-A7CD1E0C6254} UserComponentData Class
+{CBC04AF1-25C7-4A4D-BB78-28284403510F} tiledatamodelsvc
+{CD1ABFC8-6C5E-4A8D-B90B-2A3B153B886D} Microsoft WBEM _IWbemConfigureRefreshingSvc Configure Refreshing ...
+{CD1C1372-A874-4454-BA8D-93017D0136F5} NfcToastActivator
+{CD3AFA70-B84F-48F0-9393-7EDC34128127} APPLICATION__X_MPLAYER2 Moniker Class
+{CD3AFA71-B84F-48F0-9393-7EDC34128127} APPLICATION__X_MS_WMZ Moniker Class
+{CD3AFA72-B84F-48F0-9393-7EDC34128127} AUDIO__AIFF Moniker Class
+{CD3AFA73-B84F-48F0-9393-7EDC34128127} AUDIO__BASIC Moniker Class
+{CD3AFA74-B84F-48F0-9393-7EDC34128127} AUDIO__MID Moniker Class
+{CD3AFA76-B84F-48F0-9393-7EDC34128127} AUDIO__MP3 Moniker Class
+{CD3AFA77-B84F-48F0-9393-7EDC34128127} AUDIO__MPEG Moniker Class
+{CD3AFA78-B84F-48F0-9393-7EDC34128127} AUDIO__MPEGURL Moniker Class
+{CD3AFA7A-B84F-48F0-9393-7EDC34128127} AUDIO__SCPLS Moniker Class
+{CD3AFA7B-B84F-48F0-9393-7EDC34128127} AUDIO__WAV Moniker Class
+{CD3AFA7C-B84F-48F0-9393-7EDC34128127} AUDIO__MP4 Moniker Class
+{CD3AFA7D-B84F-48F0-9393-7EDC34128127} AUDIO__VND_DLNA_ADTS Moniker Class
+{CD3AFA7E-B84F-48F0-9393-7EDC34128127} AUDIO__MKA Moniker Class
+{CD3AFA7F-B84F-48F0-9393-7EDC34128127} AUDIO__FLAC Moniker Class
+{CD3AFA83-B84F-48F0-9393-7EDC34128127} AUDIO__X_MS_WAX Moniker Class
+{CD3AFA84-B84F-48F0-9393-7EDC34128127} AUDIO__X_MS_WMA Moniker Class
+{CD3AFA88-B84F-48F0-9393-7EDC34128127} VIDEO__AVI Moniker Class
+{CD3AFA89-B84F-48F0-9393-7EDC34128127} VIDEO__MPEG Moniker Class
+{CD3AFA8F-B84F-48F0-9393-7EDC34128127} VIDEO__X_MS_ASF Moniker Class
+{CD3AFA90-B84F-48F0-9393-7EDC34128127} VIDEO__X_MS_ASF_PLUGIN Moniker Class
+{CD3AFA92-B84F-48F0-9393-7EDC34128127} VIDEO__X_MS_WM Moniker Class
+{CD3AFA93-B84F-48F0-9393-7EDC34128127} VIDEO__X_MS_WMX Moniker Class
+{CD3AFA94-B84F-48F0-9393-7EDC34128127} VIDEO__X_MS_WMV Moniker Class
+{CD3AFA95-B84F-48F0-9393-7EDC34128127} VIDEO__X_MS_WVX Moniker Class
+{CD3AFA96-B84F-48F0-9393-7EDC34128127} APPLICATION__X_WMPLAYER Moniker Class
+{CD3AFA97-B84F-48F0-9393-7EDC34128127} AUDIO__3GPP Moniker Class
+{CD3AFA98-B84F-48F0-9393-7EDC34128127} AUDIO__3GPP2 Moniker Class
+{CD3AFA99-B84F-48F0-9393-7EDC34128127} VIDEO__MP4 Moniker Class
+{CD3AFA9A-B84F-48F0-9393-7EDC34128127} VIDEO__QUICKTIME Moniker Class
+{CD3AFA9B-B84F-48F0-9393-7EDC34128127} AUDIO__VND_MPEG_TTS Moniker Class
+{CD3AFA9C-B84F-48F0-9393-7EDC34128127} VIDEO__MKV Moniker Class
+{CD3AFA9D-B84F-48F0-9393-7EDC34128127} VIDEO__MK3D Moniker Class
+{CDA8ACB0-8CF5-4F6C-9BA2-5931D40C8CAE} FaxServer Class
+{cdc32574-7521-4124-90c3-8d5605a34933} Windows Media Player Burn Audio CD Handler
+{cfb16474-0a2e-48dc-88ce-8c0adb7e5e46} Windows Media Player Device Options Property Page
+{D02AAC50-027E-11D3-9D8E-00C04F72D980} Collection of all the available BDA Tuning Model Tuning Space obj...
+{D02B1F72-3407-48ae-BA88-E8213C6761F1} Administrative Templates (Computers)
+{D06342BD-9057-4673-B43A-0E9BBBE99F11} PMCComponentData Class
+{D3E34B21-9D75-101A-8C3D-00AA001A1652} Paintbrush Picture
+{D5E8041D-920F-45e9-B8FB-B1DEB82C6E5E}
+{D73733C8-CC80-11D0-B225-00C04FB6C2F5} FaxServer Class
+{da1c0281-456b-4f14-a46d-8ed2e21a866f} Microsoft.SyncShare.SyncShareFactory Class
+{DACE006F-9846-4D70-A0BE-6EF90FA99392} Windows.ApplicationModel.ConversationalAgent.Internal.ProxyStubFa...
+{dacfcde5-4790-45ea-a357-a8388c6a587b} Windows.Media.Devices.Internal.CallControlBroker
+{de2d022d-2480-43be-97f0-d1fa2cf98f4f} Provides IPortableDeviceKeyCollection helper methods for portable...
+{DE3F3560-3032-41B4-B6CF-F703B1B95640} Windows Search Service Profile Notify Handler
+{DE5E0969-1B70-48FC-8AF9-74931E995953} Windows.Devices.Bluetooth.Background.GattServiceProviderTriggerDe...
+{DE661907-527D-4d6a-B6A6-EBC7F88D9B95} BranchCache
+{DF4FCC34-067A-4E0A-8352-4A1A5095346E}
+{DF58FA85-1071-4B44-8CBC-841B9116E9DB} Windows.ApplicationModel.Email.EmailDataProviderTriggerDetails Fa...
+{DF5C33B8-3120-4cd4-991F-300385B66FDE} NarratorImage Class
+{DFD74844-990B-4410-9DA0-2848EFA85D14} WMPlayer ClipPropPage Class
+{E0DF7408-44FF-47D8-BE3B-79729980CAD8} Windows.Storage.Search.StorageLibraryChangeTrackerTriggerDetails ...
+{e0ec8de2-d4e2-4e48-93ab-edcddbbcf7eb} PSFactoryBuffer
+{E18AF75A-08AF-11D3-B64A-00C04F79498E} Custom Composition Segment from Legacy Analog Tv Tuner Device Seg...
+{E19AF835-9413-48A3-BDCC-28BA0286E348} Microsoft Account UserIdKey Manager
+{E2E760C5-BF0D-4241-BFD6-6D0AAB648AC9} IE WS Change Notify
+{E45A56CE-399C-45F0-9E6F-BFAACD3C711F} Authentication UI CredUI Out of Proc Helper for Non-AppContainer ...
+{e46787a1-4629-4423-a693-be1f003b2742} MF WAV Property Handler
+{E61BF828-5E63-4287-BEF1-60B1A4FDE0E3} Work Folders Context Menu Handler
+{E96F5460-09CE-4f46-88B1-F4B6B4A8E252} Windows Media Player Transcode Files Cache Cleanup Handler
+{ECDB0924-4208-451E-8EE0-373C0956DE16} ECS
+{ed1d0fdf-4414-470a-a56d-cfb68623fc58} Play with Windows Media Player
+{EE0BDDFA-8373-4cc4-85D8-0618E453187C} IE History Search Protocol Handler
+{EE4DA6A4-8C52-4a63-BBB8-97C93D7E1B6C} APPLICATION__X_MS_WMD Moniker Class
+{EEE95597-52F4-43DF-BEAE-1EE41A2A9AD6} CDPComSampleCustomAuthenticationHandler
+{ef5db4c2-9312-422c-9152-411cd9c4dd84} Provides access to a portable device service using IPortableDevic...
+{ef636390-f343-11d0-9477-00c04fd36226} OLE DB Rowset Proxy
+{EF6EF542-EB19-4986-89D3-143960609251} MachineComponent Class
+{F2FC1215-A7D9-4F02-AC1F-251B074B1829} Windows.ApplicationModel.Payments.ProviderPaymentAppCanMakePaymen...
+{F2FC5C3B-FC71-452c-AB56-47BC0873E46D} OOBE Region Plugin
+{F62D062C-4732-44D2-BD62-124B8AE1657C} WMPlayer PluginsPropPage Class
+{f7c0039a-4762-488a-b4b3-760ef9a1ba9b} Provides access to a portable device using IPortableDevice for mu...
+{F7DD51E6-1CA0-4A76-B503-F96E0E64CA91} {F7DD51E6-1CA0-4A76-B503-F96E0E64CA91}
+{fecd606e-7161-4cbc-a868-4703867823ea} WMDM Transcode Property Page
+{FF658520-21A7-4AE1-A72A-D5A2D937138C} Microsoft XPS Shell Metadata Handler
+{FFE8C349-2BB1-411F-93CE-0364C5F9FD9F} MTF Server
 
