@@ -10111,3 +10111,4 @@ Web Folders
 {A0DA3058-10E0-11E4-B667-6C626DCFBEE5} HPScanTRDrv
 {9c569020-57c0-4ce0-9605-8ad42f4b1c7f} sync-taskbar (sync.com)
 {afe40dbb-ab20-4979-b0d2-483b6866c8c9} sync-initdll (sync.com)
+{b57a832b-f40a-4a9d-a0f5-49e7d17b8ee4} Sync.Com
