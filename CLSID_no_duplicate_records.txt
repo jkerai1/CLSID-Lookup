@@ -10115,3 +10115,4 @@ Web Folders
 {b538a458-3e16-47e9-b045-71d20d24f025} Google Chrome Updater
 {37e52cf8-6904-44b2-ab03-615c9afe435e} Prezi
 {c69f652a-bbe4-4490-8e17-13c79c5c2009} Ivanti
+{28a80003-18fd-411d-b0a3-3c81f618e22b} - Kingsoft WPS
