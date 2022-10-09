@@ -10,7 +10,7 @@ Get-ItemProperty -Path "HKLM:\SOFTWARE\Classes\CLSID*" |select PSChildName,(defa
 
 # Refs: 
 
-https://www.linkedin.com/posts/hackingarticles_com-hijackingpdf-activity-6984907816364855297-U4CS
+https://www.linkedin.com/posts/hackingarticles_com-hijackingpdf-activity-6984907816364855297-U4CS  
 https://docs.microsoft.com/en-us/windows/win32/com/component-object-model--com--portal
 https://www.systemlookup.com/lists.php?list=1  
 https://documentation.help/AutoHotKey-Functions/CLSID-List.htm  
