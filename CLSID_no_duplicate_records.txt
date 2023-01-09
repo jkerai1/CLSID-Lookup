@@ -10118,3 +10118,4 @@ Web Folders
 {28a80003-18fd-411d-b0a3-3c81f618e22b} - Kingsoft WPS
 {0cbfadac-1f84-d040-b129-ce9cd2e6e676} - FreeMake YTD
 {4ddb9f3f-700c-4bd6-9fc0-eaf85c01d25b} - Greenshot 
+{094A5F1B-E10B-40DA-BD44-0E434D2D1C21} - K-helix  (KPMG)
