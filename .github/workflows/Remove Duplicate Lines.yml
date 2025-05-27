@@ -1,0 +1,49 @@
+name: Remove Duplicate Lines
+
+on:
+  push:
+    paths:
+      - '**/*.txt' # Trigger on changes to any .txt file in the repository
+
+jobs:
+  deduplicate:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Find and process .txt files
+      run: |
+        git fetch origin ${{ github.sha }} --depth=1 # Fetch the commit to ensure file is present
+        # Get a list of all .txt files in the repository
+        # This will process ALL .txt files on every push.
+        # If you only want to process changed files, see the "Important Considerations" below.
+        find . -name "*.txt" -print0 | while IFS= read -r -d $'\0' FILE; do
+          if [ -f "$FILE" ]; then
+            echo "Processing file: $FILE"
+            # Create a temporary file to store unique lines
+            awk '!seen[$0]++' "$FILE" > "$FILE.tmp"
+            # Compare original and temporary file to see if changes were made
+            if cmp -s "$FILE" "$FILE.tmp"; then
+              echo "No duplicates found or no changes in $FILE"
+              rm "$FILE.tmp" # Remove temp file if no changes
+            else
+              # Overwrite the original file with the unique lines
+              mv "$FILE.tmp" "$FILE"
+              echo "Duplicate lines removed from $FILE"
+              echo "FILE_MODIFIED=true" >> $GITHUB_ENV # Set an environment variable if any file is modified
+              echo "$FILE" >> modified_files.txt # Keep track of modified files
+            fi
+          fi
+        done
+
+    - name: Commit changes if any file was modified
+      if: env.FILE_MODIFIED == 'true'
+      with:
+        commands: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          # Add only the files that were actually modified
+          xargs -a modified_files.txt git add
+          git commit -m "Removed duplicate lines from .txt files"
+          git push
