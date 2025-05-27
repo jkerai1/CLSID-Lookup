@@ -6,7 +6,7 @@ Frustrated with not being able to find what applications use what corresponding 
 Use the python script and raw list to produce a list free of CLSID duplicates (but not application duplicates as same application might use multiple CLSIDs)
 
 # Powershell Command Used: 
-Get-ItemProperty -Path "HKLM:\SOFTWARE\Classes\CLSID*" |select PSChildName,(default`) |ft -auto * | clip
+```Get-ItemProperty -Path "HKLM:\SOFTWARE\Classes\CLSID\*"|select PSChildName,`(default`) |ft -auto *| clip```
 
 # Refs: 
 
