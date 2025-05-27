@@ -10090,3 +10090,13 @@ Device Pairing Container
 {0cbfadac-1f84-d040-b129-ce9cd2e6e676} - FreeMake YTD
 {4ddb9f3f-700c-4bd6-9fc0-eaf85c01d25b} - Greenshot 
 {094A5F1B-E10B-40DA-BD44-0E434D2D1C21} - K-helix  (KPMG)
+{FFB8655F-81B9-4fce-B89C-9A6BA76D13E7} Shell Execute Hardware Event Handler
+{FFC9F9AE-E87A-3252-8E25-B22423A40065} System.ThreadStaticAttribute
+{FFCDB781-D71C-4D10-BD5F-0492EAFFD90A} PSFactoryBuffer
+{FFCECE86-332F-49B4-B9EE-7FECEFAD3E10} MCCS SyncStatusNotification
+{ffd90217-f7c2-4434-9ee1-6f1b530db20f} XML Feed Moniker
+{ffe1df5f-9f06-46d3-af27-f1fc10d63892} HomeGroup CPL Advanced Settings Writer
+{FFE1E5FE-F1F0-48C8-953E-72BA272F2744} EntAppSvc
+{FFE2A43C-56B9-4bf5-9A79-CC6D4285608A} Windows Photo Viewer Image Verbs
+{FFE8C349-2BB1-411F-93CE-0364C5F9FD9F} MTF Server
+{FFF0A69B-BE97-4023-BBB6-7914DB95E300} WirelessNetworkPreference
