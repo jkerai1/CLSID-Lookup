@@ -4,7 +4,7 @@ CLISID reference sheet. A CLSID is a globally unique identifier that identifies 
 Frustrated with not being able to find what applications use what corresponding CLSID , I made this as a nice lookup. Please feel free to fork and contribute missing CLSIDs
 
 ~~Use the python script and raw list to produce a list free of CLSID duplicates (but not application duplicates as same application might use multiple CLSIDs)~~
-Github Action will now auto resolve duplicates so need to run python locally!  
+Github Action will now auto resolve duplicates so no need to run python locally!  
 
 # Powershell Command Used: 
 ```Get-ItemProperty -Path "HKLM:\SOFTWARE\Classes\CLSID\*"|select PSChildName,`(default`) |ft -auto *| clip```
