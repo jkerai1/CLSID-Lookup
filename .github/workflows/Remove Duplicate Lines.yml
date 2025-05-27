@@ -39,8 +39,7 @@ jobs:
 
     - name: Commit changes if any file was modified
       if: env.FILE_MODIFIED == 'true'
-      with:
-        commands: |
+      run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
           # Add only the files that were actually modified
